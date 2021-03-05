@@ -1,6 +1,8 @@
 # Trains
 Assumtions: 
+
 1: I assume that the lines are each less than the max integer size and that no one tries to calculate anything that would sum to an amount past the max integer size either.
+
 2: I assume good user input and didn't implement regex input checking.
 
 
